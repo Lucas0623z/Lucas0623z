@@ -44,15 +44,18 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,r,python,gradle&perline=8" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,r,python,gradle,nodejs&perline=8" alt="languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,linux,windows,md,bash,powershell&perline=8" alt="core" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bash,powershell,linux,windows&perline=8" alt="web-shell" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,postman,figma&perline=8" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,docker,md,postman,figma&perline=8" alt="tools" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/XSLT-XML%20Transform-005FAD?style=for-the-badge&logo=apache&logoColor=white" alt="XSLT" />
+  <img src="https://img.shields.io/badge/Shell-script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Batchfile-.bat%2F.cmd-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Batchfile" />
   <img src="https://img.shields.io/badge/Claude-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
@@ -66,8 +69,13 @@
 | **C#** | .NET desktop / tooling · Windows ecosystem |
 | **R** | Data analysis · statistics · visualization |
 | **Python** | Scripting · automation · prototyping |
+| **JavaScript / TypeScript** | Web tooling · Node.js scripts · front-end utilities |
+| **HTML / CSS** | Docs · landing pages · UI styling |
+| **XSLT** | XML transform pipelines · build & doc generation |
+| **Shell** | Bash · POSIX shell · automation on Linux/macOS |
+| **Batchfile** | Windows `.bat` / `.cmd` launchers · build helpers |
 | **Build** | Gradle · multi-module · JUnit 4 |
-| **Scripting** | Bash · PowerShell · Shell automation |
+| **Scripting** | Bash · PowerShell · Shell · Batch automation |
 | **Markup / Data** | XML · JAXB · JSON · Markdown · Properties i18n |
 
 ### Desktop & UI (NoteLite)
