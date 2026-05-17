@@ -44,10 +44,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,github,idea,linux,windows,md&perline=8" alt="core" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,r,python,gradle&perline=8" alt="languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,docker,postman,figma&perline=8" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,linux,windows,md,bash,powershell&perline=8" alt="core" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,figma&perline=8" alt="tools" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
 ### Languages & Runtime
@@ -55,6 +62,10 @@
 | | |
 |---|---|
 | **Java** | JDK 17 / 21 · Swing desktop · `java.net.http` |
+| **C / C++** | Native modules · performance-critical components · JNI interop |
+| **C#** | .NET desktop / tooling · Windows ecosystem |
+| **R** | Data analysis · statistics · visualization |
+| **Python** | Scripting · automation · prototyping |
 | **Build** | Gradle · multi-module · JUnit 4 |
 | **Scripting** | Bash · PowerShell · Shell automation |
 | **Markup / Data** | XML · JAXB · JSON · Markdown · Properties i18n |
@@ -93,7 +104,7 @@
 | **Logging** | SLF4J · Logback |
 | **Events** | EventBus |
 | **APIs** | GitHub API (Kohsuke) · REST / HTTP clients |
-| **AI (exploring)** | Google Gemini · Lyria music generation |
+| **AI** | **Claude** (Claude Code / API) · Google Gemini · Lyria music generation |
 
 ### DevOps & Delivery
 
@@ -106,7 +117,7 @@
 
 ### Tooling I Use Daily
 
-`IntelliJ IDEA` · `Cursor` · `Claude Code` · `Gradle` · `JDK` · `Windows Terminal` · `WinGet`
+`IntelliJ IDEA` · `Cursor` · `Claude` / `Claude Code` · `Gradle` · `JDK` · `Windows Terminal` · `WinGet`
 
 **Domains:** Optical Music Recognition · Music Education · MusicXML / MIDI · Desktop Java · Build & Release · AI-assisted workflows
 
